@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: slategrey;
+}
+
+.header {
+    margin: 20px;
+    background-image: url(../image/headerimg.jpg);
+    background-position: center;
+    font-family: 'Volkhov', serif; 
+    text-align: center;
+    color: snow;
+    position: static;
+}
+
+.about_me {
+    
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
