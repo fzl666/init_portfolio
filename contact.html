@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="./asset/css/style.css">
 </head>
 
-<body style="font-family: 'Volkhov', serif; ">
+<body>
   <div class="header">
     <h1>Luwenxi Song</h1>
   </div>
@@ -25,15 +25,17 @@
         </div>
       </div>
     </nav>
-    <div class="about_me">
-    <div class="card" style="width: 40rem; background-color: rgb(208, 224, 233);">
-      <img src="./asset/image/profilepic.JPG" class="card-img-top" style="width: 100px;" alt="Profile picture">
-      <div class="card-body">
-        <h5 class="card-title">About</h5>
-        <p class="card-text">My name is Luwenxi Song. I am an student, artist and designer based in New York and Guangzhou.</p>
-        <a href="https://github.com/fzl666" class="btn btn-primary" style="background-color: #516385; border-color: rgb(255, 255, 255);">Github</a>
+    <form style="width: 700px; margin-left: auto; margin-right: auto; margin-top: 20px;" action="mailto:songlu329@outlook.com" method="post" enctype="text/plain">
+      <div class="form-group">
+        <label for="exampleInputEmail1">Email address</label>
+        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+        <small id="emailHelp" class="form-text">We'll never share your email with anyone else.</small>
       </div>
-    </div>
-    </div>
+      <div class="form-group">
+        <label for="massage">Message</label>
+        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+      </div>
+      <button type="submit" class="btn btn-primary" style="background-color: #516385; border-color: rgb(255, 255, 255);">Submit</button>
+    </form>
 </body>
 </html>
