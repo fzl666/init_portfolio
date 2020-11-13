@@ -3,13 +3,12 @@
     padding: 0;
     margin: 0;
 }
-
 body {
     background-color: slategrey;
 }
 
 .header {
-    margin: 20px;
+    margin-bottom: 20px;
     background-image: url(../image/headerimg.jpg);
     background-position: center;
     font-family: 'Volkhov', serif; 
@@ -17,13 +16,9 @@ body {
     color: snow;
     position: static;
 }
-
-.about_me {
-    
-    display: block;
-    margin-top: 20px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+.footerText {
+    background-color: rgb(208, 224, 233);
+    text-align: center;
     
 }
+
