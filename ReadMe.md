@@ -1,4 +1,4 @@
-Week2 homework
+My portfolio
 
 - About me
 - Slideshow of works
