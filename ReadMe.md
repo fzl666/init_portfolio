@@ -2,9 +2,12 @@
 
 (This is part of an assignment). 
 
-A brief self introduction of me including some samples of my past visual art works.
+A brief self introduction of me and showcase of my coding projects
 
 - About me
 - Slideshow of works
 - Contact form
+
+## Preview
+![preview](./asset/image/page.png)
 

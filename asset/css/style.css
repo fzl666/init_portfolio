@@ -1,25 +1,25 @@
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+
 body {
-    background-color: slategrey;
+    background: #f8f9fa;
 }
 
 .header {
-    margin-bottom: 20px;
+   margin-bottom: 0%;
     background-image: url(../image/headerimg.jpg);
-    background-position: center;
     font-family: 'Volkhov', serif; 
     text-align: center;
     color: snow;
     position: static;
 }
 .footerText {
-    background-color: rgb(208, 224, 233);
     text-align: center;
-    
+    color: grey;
 }
 
 .collapse.in{
@@ -28,7 +28,6 @@ body {
     width: 100%;
 }
 .info{
-    color: rgb(110, 110, 110);
-    
+    color: grey;
     padding: 10px;
 }
