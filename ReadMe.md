@@ -5,7 +5,7 @@
 A brief self introduction of me and showcase of my coding projects
 
 - About me
-- Slideshow of works
+- Portfolio
 - Contact form
 
 ## Preview
