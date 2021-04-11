@@ -9,6 +9,4 @@ A brief self introduction of me and showcase of my coding projects
 - Portfolio
 - Contact form
 
-## Preview
-![preview](./asset/image/page.png)
 
