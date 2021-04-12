@@ -1,5 +1,7 @@
 ## [My Portfolio](https://fzl666.github.io/fzl666/)
 
+## [Updated version](https://fzl666.github.io/React-Portfolio/)
+
 
 [My personal website(art&design&general)](https://luwenxisong.com). 
 
