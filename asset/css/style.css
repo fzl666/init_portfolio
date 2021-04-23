@@ -6,7 +6,7 @@
 }
 
 body {
-    background: #f8f9fa;
+    background: rgb(211, 219, 235);
 }
 
 .header {
@@ -30,4 +30,27 @@ body {
 .info{
     color: grey;
     padding: 10px;
+}
+@media screen and (max-width: 850px) {
+    .col-sm {
+     width: 100%;
+    }
+    .col{
+     width: 100%;
+    }
+}
+
+.items{
+    background-color: rgb(255, 255, 255, 0.4);
+    margin-bottom: 5%;
+}
+.nav{
+    background-color: rgba(111, 125, 170, 0.4);
+    margin-bottom: 5%;}
+
+
+@media (max-width:480px){
+    .stack{
+    display:flex;
+    }
 }
